@@ -6,7 +6,7 @@
 - sequência de passos lógicos e finita para a resolução de um problema 
 
 ## peças de uma linguagem
-- comentários 
+- [x] comentários 
 - declaração de variáveis (const, let)
 - operadores (atribuição, concatenação, matemáticos, lógicos)
 - tipos de dados (string, number, boolean)
@@ -20,13 +20,25 @@
 - apresentar os dados
 
 ## escopo e variáveis
-- variáveis globais e locais
-- constantes 
+- [x] variáveis globais e locais
+- [x] constantes 
 
 ## tipos de dados
-- strings (textos): "" '' ``
-- numbers: 2 1.4
-- function
+- [x] strings (textos): "" '' `` 
+- [x] numbers: 2 1.4 
+- [x] boolean: true/false
 
 ## operadores
-- operadores de atribuição de valor
+- [x] operadores de atribuição de valor: =
+- [x] operador de concatenação: + 
+
+## estrutura de dados
+- [x] arrays: lista que contém qualquer tipo de dado 
+- [x] objetos: - atributos e métodos 
+               - criação e manipulação de objetos
+               - acesso e propriedades de objetos 
+ 
+## functions
+- [x] criar, passar argumento 
+- [x] executar
+- [x] arrow/named function 
