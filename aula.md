@@ -6,7 +6,7 @@
 - sequência de passos lógicos e finita para a resolução de um problema 
 
 ## peças de uma linguagem
-- [x] comentários 
+- comentários 
 - declaração de variáveis (const, let)
 - operadores (atribuição, concatenação, matemáticos, lógicos)
 - tipos de dados (string, number, boolean)
@@ -20,38 +20,38 @@
 - apresentar os dados
 
 ## escopo e variáveis
-- [x] variáveis globais e locais
-- [x] constantes 
+- variáveis globais e locais
+- constantes 
 
 ## tipos de dados
-- [x] strings (textos): "" '' `` 
-- [x] numbers: 2 1.4 
-- [x] boolean: true/false
+- strings (textos): "" '' `` 
+- numbers: 2 1.4 
+- boolean: true/false
 
 ## operadores
-- [x] operadores de atribuição de valor: =
-- [x] operador de concatenação: + 
+- operadores de atribuição de valor: =
+- operador de concatenação: + 
+- operadores de comparação: == != <= >= < >
 
 ## estrutura de dados
-- [x] arrays: lista que contém qualquer tipo de dado 
-- [x] objetos: - atributos e métodos 
+- arrays: lista que contém qualquer tipo de dado 
+- objetos: - atributos e métodos 
                - criação e manipulação de objetos
                - acesso e propriedades de objetos 
- 
-## functions
-- [x] criar, passar argumento 
-- [x] executar
-- [x] arrow/named function 
+- functions: - criar, passar argumento 
+             - executar
+             - arrow/named function 
 
 ## estrutura de repetição
-- [x]while
+- while
 
 ## condicionais
-- [x] switch
+- switch
+- if/else
 
 ## módulos em Node.js
-- [x] importação de módulos (require, CommonJS)
-- [x] biblioteca 'inquirer' para criar prompts interativos
+- importação de módulos (require, CommonJS)
+- biblioteca 'inquirer' para criar prompts interativos
 
 ## programação assícrona e promises
-- [x] uso de funções assícronicas (async/await)
+- uso de funções assícronicas (async/await)
