@@ -42,3 +42,6 @@
 - [x] criar, passar argumento 
 - [x] executar
 - [x] arrow/named function 
+
+## estrutura de repetição
+- [x]while
