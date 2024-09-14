@@ -48,7 +48,7 @@
 - while
 
 ## condicionais
-- switch
+- switch  
 - if/else
 
 ## módulos em Node.js
