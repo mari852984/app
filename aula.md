@@ -36,7 +36,7 @@
 
 ## estrutura de dados
 - arrays: - lista que contém qualquer tipo de dado 
-          - métodos de array: push, [find, forEach, filter] => HOF (Higher Order Functions)
+          - métodos de array: push, [find, forEach, filter, map] => HOF (Higher Order Functions)
 - objetos: - atributos e métodos 
                - criação e manipulação de objetos
                - acesso e propriedades de objetos 
